@@ -20,6 +20,6 @@ Welcome to my GitHub! I’m a developer exploring web projects, game development
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jtddev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jtddev&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jtddev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="jtddev"/>
 <a href="https://discord.com/users/1423055194534707230"><img src="https://lanyard.cnrad.dev/api/1423055194534707230?showDisplayName=true&hideStatus=true&hideTag=true" /></a>
